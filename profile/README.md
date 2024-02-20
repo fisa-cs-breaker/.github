@@ -6,7 +6,10 @@
 
 ### First Week
 - [ ] 1주차 CS : 02.24(토) - HTTP
-- [ ] 1주차 Java : 02.25(일) 
+- [ ] 1주차 Java : 02.25(일)
+  - [ ] 염휘주 : 
+  - [ ] 조승빈 :
+  - [ ] 황현수 :
 <!--
 
 **Here are some ideas to get you started:**
