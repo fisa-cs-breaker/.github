@@ -11,12 +11,8 @@ check
   - [ ] 조승빈 :
   - [ ] 황현수 :
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+||김은지|조승빈|염휘주|황현수|
+|---|---|---|---|---|
+|1주차 |[ ]|[ ]|[ ]|[ ]|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
